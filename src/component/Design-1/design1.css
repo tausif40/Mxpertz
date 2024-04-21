@@ -1,0 +1,42 @@
+body {
+	background-color: #0d031e;
+}
+.card {
+	background: linear-gradient(90deg, #4b44c8, #21a1c8);
+}
+main {
+	background-image: url(../../../public/assets/images/home.png);
+	background-repeat: no-repeat;
+	object-fit: contain;
+	width: 100%;
+	height: 400px;
+}
+
+.signOutBtn,
+.clearBtn {
+	background: linear-gradient(90deg, #5b54e9, #29bdec);
+	color: #fff;
+}
+
+.signOutBtn:hover {
+	transform: scale(0.95);
+	cursor: pointer;
+}
+
+.cartBg {
+	background: #0d031e;
+}
+svg {
+	display: inline-block;
+	position: absolute;
+	top: 40px;
+	left: 0;
+	z-index: 0;
+}
+.ChangePage button {
+	background-image: linear-gradient(90deg, #5b54e9, #29bdec);
+	background-clip: text;
+	color: transparent;
+	cursor: pointer;
+	transition: 0.2s;
+}

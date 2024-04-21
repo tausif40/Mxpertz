@@ -1,0 +1,7 @@
+.navOption li:hover {
+	background-image: linear-gradient(90deg, #5b54e9, #29bdec);
+	background-clip: text;
+	color: transparent;
+	cursor: pointer;
+	transition: 0.2s;
+}

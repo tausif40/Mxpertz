@@ -1,0 +1,1 @@
+export const cardDataUrl = "https://child.onrender.com/api/sciencefiction"
