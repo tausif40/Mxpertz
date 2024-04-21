@@ -9,9 +9,10 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<Design1 />}></Route>
+        <Route path="/Mxpertz" element={<Design1 />}></Route>
         <Route path="/cartDetails/:_id" element={<Design2 />}></Route>
       </Routes>
-    
+
     </>
   );
 }
