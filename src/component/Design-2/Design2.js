@@ -76,7 +76,7 @@ function Design2() {
 									<span className='text'> (Noun)</span>
 								</div>
 								<p className='text-xs pb-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque neque assumenda esse nostrum.</p>
-								<img src='/assets/images/dummy-img.jpg' alt='' className='' />
+								<img src='https://i.postimg.cc/50TntTf1/reading-animation.jpg' alt='' className='h-[410px] object-cover m-auto' />
 							</div>
 							<div className='next-pre flex justify-center gap-16 my-5'>
 								<button className='size-10'>&lt;</button>
