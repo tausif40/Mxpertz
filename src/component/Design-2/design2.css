@@ -67,3 +67,10 @@
 .nextBtn {
 	float: right;
 }
+
+@media (max-width: 768px) {
+	.cartDetails-section {
+		flex-direction: column;
+		justify-content: center;
+	}
+}
