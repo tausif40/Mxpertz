@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link of this website -  [click here](https://tausif40.github.io/Mxpertz/).
 
 ## Available Scripts
 
