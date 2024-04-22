@@ -69,7 +69,7 @@ function Design2() {
 						<p className='py-8 text-sm'>Drag Picture to the matching Words, Light up correct pairs, shake for a retry</p>
 					</div>
 					<div className='cartDetails-section container mt-8 flex gap-5 w-full items-start'>
-						<div className='m-auto w-[39rem]'>
+						<div className='w-[39rem]'>
 							<div className='mainCard p-2'>
 								<div>
 									<span className='correction text-xl font-bold'>Correction</span>
